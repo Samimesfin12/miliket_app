@@ -129,3 +129,4 @@ Tables: `users`, `userProgress`, `lessonProgress`, `quizResults`, `achievements`
 ## License
 
 For 3.5 million deaf Ethiopians. Use with care.
+This is my first update.
